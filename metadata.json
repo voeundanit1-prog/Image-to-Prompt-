@@ -1,0 +1,7 @@
+{
+  "name": "VidioVision AI - Image to Video Prompt",
+  "description": "Transform any static image into a cinematic video generation prompt. Upload your visual concept and let Gemini's vision intelligence craft the perfect motion instructions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
